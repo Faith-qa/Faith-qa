@@ -2,8 +2,11 @@
 
 #### My name is Faith Okoth, a Fullstack Software Engineer from Nairobi Kenya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on [ivy](https://github.com/unifyai/ivy)
+- 🌱 I’m currently learning **Golang, Kurbenetes **
+- - 💬 Ask me about Python, Typescript, Javascript, AWS, docker
+- - 📫 How to reach me: okothfaith16@gmail.com
+
 
 
 
