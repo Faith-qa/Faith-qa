@@ -1,6 +1,6 @@
 <h1 align=center>Hi there 👋</h1>
 
-#### My name is Faith Okoth, a Fullstack Software Engineer from Nairobi Kenya.
+<h3 align=center> My name is Faith Okoth, a Fullstack Software Engineer from Nairobi Kenya.</h3>
 
 - 🔭 I’m currently working on [ivy](https://github.com/unifyai/ivy)
 - 🌱 I’m currently learning **Golang, Kurbenetes **
