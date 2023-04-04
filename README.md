@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [ivy](https://github.com/unifyai/ivy)
 - 🌱 I’m currently learning **Golang, Kurbenetes **
-- - 💬 Ask me about Python, Typescript, Javascript, AWS, docker
-- - 📫 How to reach me: okothfaith16@gmail.com
+- 💬 Ask me about Python, Typescript, Javascript, AWS, docker
+- 📫 How to reach me: okothfaith16@gmail.com
 
 
 
