@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align=center>Hi there 👋</h1>
 
 #### My name is Faith Okoth, a Fullstack Software Engineer from Nairobi Kenya.
 
